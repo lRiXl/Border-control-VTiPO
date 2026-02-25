@@ -69,10 +69,12 @@ button:hover {
 
 .left {
   left: 0;
+  background-image: url("../img/velo.jpg");
 }
 
 .right {
   right: 0;
+  background-image: url("../img/photo-1518770660439-4636190af475.jpg");
 }
 
 body {
@@ -100,4 +102,5 @@ body {
   border-radius: 6px;
 
 }
+
 
